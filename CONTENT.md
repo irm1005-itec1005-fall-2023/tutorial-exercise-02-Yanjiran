@@ -1,6 +1,6 @@
 # Content for Tutorial 02
 
-Site Header `h2`
+<!-- Site Header `h2`
 
 Site title: City of Ottawa Random Data `p`
 
@@ -52,6 +52,7 @@ Reviewing the data in the following table, answer the following questions: `p`
 - Which ward has the lowest property tax revenue?
 - What is the total property tax revenue for the City of Ottawa?
 - What is the difference in size between the ward that collects the most property taxes and the ward that collects the least?
+-->
 
 Ward specific data `h3`
 
